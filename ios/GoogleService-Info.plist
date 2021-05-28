@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>969160996680-k85p4kjbqo9tlq85v19fb8cvpl2sh8nc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.969160996680-k85p4kjbqo9tlq85v19fb8cvpl2sh8nc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCyRJ6HbchA3PGfGBxPjHdwQBKDGnWeduU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>969160996680</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hippatalksVideocall</string>
+	<key>PROJECT_ID</key>
+	<string>hipaatalks</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hipaatalks.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:969160996680:ios:fe26871e874d75f5fe257d</string>
+</dict>
+</plist>
